@@ -1,7 +1,7 @@
 import React from "react";
 import {Grid} from '@material-ui/core';
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
-import { Homepage } from "./components/Homepage.js";
+import { Homepage } from "./components/Homepage";
 import { Lessons } from "./components/Lessons.js";
 import { Oops } from "./components/Oops.js";
 import { LandingPage } from "./components/LandingPage";
